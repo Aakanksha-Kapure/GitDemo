@@ -1,0 +1,16 @@
+C:\LNT\csharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.exe
+C:\LNT\csharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.deps.json
+C:\LNT\csharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.runtimeconfig.json
+C:\LNT\csharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.runtimeconfig.dev.json
+C:\LNT\csharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.dll
+C:\LNT\csharp\Day1\prjFirstApplication\bin\Debug\net5.0\ref\prjFirstApplication.dll
+C:\LNT\csharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.pdb
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.csproj.AssemblyReference.cache
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.AssemblyInfoInputs.cache
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.AssemblyInfo.cs
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.csproj.CoreCompileInputs.cache
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.dll
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\ref\prjFirstApplication.dll
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.pdb
+C:\LNT\csharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.genruntimeconfig.cache
