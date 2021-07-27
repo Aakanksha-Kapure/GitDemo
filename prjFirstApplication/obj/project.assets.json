@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LNT\\csharp\\Day1\\prjFirstApplication\\prjFirstApplication.csproj",
+      "projectUniqueName": "E:\\LnTInfotech\\Training\\GitDemo\\prjFirstApplication\\prjFirstApplication.csproj",
       "projectName": "prjFirstApplication",
-      "projectPath": "C:\\LNT\\csharp\\Day1\\prjFirstApplication\\prjFirstApplication.csproj",
+      "projectPath": "E:\\LnTInfotech\\Training\\GitDemo\\prjFirstApplication\\prjFirstApplication.csproj",
       "packagesPath": "C:\\Users\\Aakanksha\\.nuget\\packages\\",
-      "outputPath": "C:\\LNT\\csharp\\Day1\\prjFirstApplication\\obj\\",
+      "outputPath": "E:\\LnTInfotech\\Training\\GitDemo\\prjFirstApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aakanksha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
