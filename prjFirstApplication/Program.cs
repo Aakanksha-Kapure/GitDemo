@@ -9,6 +9,7 @@ namespace prjFirstApplication
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello All");
             Console.WriteLine("Branch example");
+	    Console.WriteLine("Notepad to Git");
         }
     }
 }
